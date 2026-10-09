@@ -1,0 +1,5 @@
+int _x9, x, _x9;
+double y;
+char b, x;
+double media;
+int y;

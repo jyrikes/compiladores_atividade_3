@@ -1,0 +1,5 @@
+decl
+decl.tab.c
+decl.tab.h
+lex.yy.c
+*.o

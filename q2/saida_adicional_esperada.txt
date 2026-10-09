@@ -1,0 +1,9 @@
+int _x9
+int x
+erro: _x9 já foi declarada
+double y
+char b
+erro: x já foi declarada
+double media
+erro: y já foi declarada
++++++ 5 variáveis declaradas

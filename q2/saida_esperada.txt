@@ -1,0 +1,9 @@
+int a
+int b
+double media
+char c
+erro: b já foi declarada
+double x
+double y
+erro: media já foi declarada
++++++ 6 variáveis declaradas

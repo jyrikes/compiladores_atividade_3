@@ -1,0 +1,5 @@
+int a
+int b
+double media
+char c
++++++ 4 variáveis declaradas
